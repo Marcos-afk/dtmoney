@@ -67,7 +67,7 @@ button {
 
 .react-modal-content {
   width: 100%;
-  max-width: 576px;
+  max-width: 36rem;
   background: var(--background);
   padding: 3rem;
   position: relative;
