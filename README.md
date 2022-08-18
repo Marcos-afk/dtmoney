@@ -31,5 +31,5 @@ yarn install
 
 // Concluindo a instalação rode
 
-yarn dev
+yarn start
 ```
